@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlayerMouse
+comment0.text=\n\ PlayerMouse\ class\ is\ the\ player.\n\ The\ mouse\ loves\ to\ eat\ Cheese.\n\ \n\ @author\ (Md\ Bhuiyan)\ \n\ Student\ ID\:\ 22833864\n\ @R7-8\ (8\ January\ 2021)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ PlayerMouse\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ switchImage()
+comment2.text=\n\ animating\ the\ PlayerMouse\ by\ switching\ the\ image\ between.\n
+comment3.params=
+comment3.target=PlayerMouse()
+comment3.text=\n\ \n
+comment4.params=
+comment4.target=void\ checkKeypress()
+comment4.text=\n\ Check\ whether\ a\ control\ key\ on\ the\ keyboard\ has\ been\ pressed.\n\ If\ it\ has,\ react\ accordingly.\n
+comment5.params=
+comment5.target=void\ checkCollision()
+comment5.text=\n\ \n
+numComments=6

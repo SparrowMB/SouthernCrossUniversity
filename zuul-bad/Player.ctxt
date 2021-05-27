@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\n\ @author\ \ Md\ Saiful\ Islam\ Bhuiyan\n\ @version\ (1.0)\ 2021.05.24\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\n\ \n
+comment3.params=item
+comment3.target=void\ removeItem(Item)
+comment3.text=\n\ removing\ items\n
+comment4.params=item
+comment4.target=void\ addItem(Item)
+comment4.text=\n\ adding\ items\n
+comment5.params=name
+comment5.target=Item\ getItemByName(java.lang.String)
+comment5.text=\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ listItem()
+comment6.text=\n\ listing\ items\n
+comment7.params=room
+comment7.target=boolean\ hasRoomKey(Room)
+comment7.text=\n\ checking\ if\ the\ room\ has\ key\n
+numComments=8
